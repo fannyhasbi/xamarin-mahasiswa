@@ -1,0 +1,13 @@
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.csprojAssemblyReference.cache
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.csproj.CoreCompileInputs.cache
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.AssemblyInfoInputs.cache
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.AssemblyInfo.cs
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\bin\Debug\netstandard2.0\Kelompok06.deps.json
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\bin\Debug\netstandard2.0\Kelompok06.dll
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\bin\Debug\netstandard2.0\Kelompok06.pdb
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.dll
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.pdb
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.App.xaml.g.cs
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.LoginPage.xaml.g.cs
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.MainPage.xaml.g.cs
+C:\Users\Hasbi\source\repos\Kelompok06\Kelompok06\Kelompok06\obj\Debug\netstandard2.0\Kelompok06.SignUpPage.xaml.g.cs
